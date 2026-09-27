@@ -1,3 +1,5 @@
+// Reverse Mode – PingTalk Chat App Easter Egg
+
 void main()
 {
     String s= "hello world by cod-ate";

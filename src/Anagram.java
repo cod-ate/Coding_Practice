@@ -1,3 +1,5 @@
+//Anagram Checker for a Word-Puzzle App
+
 public class Anagram {
     public static void main(String[] args) {
         String s1= "silent", s2= "listen";

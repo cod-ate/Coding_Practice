@@ -1,3 +1,5 @@
+//  Palindrome Product Code Checker
+
 public class Palindrome {
     public static void main(String[] args)
     {

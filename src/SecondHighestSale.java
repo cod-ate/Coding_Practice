@@ -1,3 +1,5 @@
+// Second-Highest Sales – SuperMart Regional Report
+
 public class SecondHighestSale {
     public static void main(String[] args) {
 

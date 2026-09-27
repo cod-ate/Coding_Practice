@@ -1,3 +1,5 @@
+// Image Preview Rotation – Matrix Transpose
+
 void main()
 {
     int[][] matrix= {{1,2,3},
